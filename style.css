@@ -1,0 +1,18 @@
+body {
+    
+    display:flex; 
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background-image: linear-gradient(red, green); 
+    background-image: linear-gradient(red, green); 
+    color: #66ff33;
+    font-size: 3em;
+
+}
+
+#score {
+    font-size: 1em;
+    color: #2c19e0
+
+}
